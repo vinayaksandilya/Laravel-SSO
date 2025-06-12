@@ -27,7 +27,7 @@ This project demonstrates a Single Sign-On (SSO) implementation using Laravel. I
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/laravel-sso.git
+   git clone https://github.com/vinayaksandilya/Laravel-SSO.git
    cd laravel-sso
    ```
 
